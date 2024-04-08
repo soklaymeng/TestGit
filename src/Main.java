@@ -166,9 +166,13 @@ public class Main {
       // Calling the first method
       int result1 = example.add(5, 10);
       System.out.println("add(int, int): " + result1);
+      System.out.println("brand main");
+      System.out.println("test gitgit commit -m \"first commit\"");
       // Calling the second method
       double result2 = example.add(2.5, 3.0, 1.5);
       System.out.println("add(double, double, double): "+result2);}}
+
+
 
 
 
